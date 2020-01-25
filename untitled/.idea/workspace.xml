@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a81c055a-34c3-48b7-bffb-db05fbda24c9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1VLQio4g0EuO4QsFyASUqFV4YAP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.exampleTwo">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="exampleTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exampleTwo" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.exampleTwo" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a81c055a-34c3-48b7-bffb-db05fbda24c9" name="Default Changelist" comment="" />
+      <created>1577030025293</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577030025293</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="99" key="#Project_Structure" timestamp="1577030052202">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="320" y="99" key="#Project_Structure/0.23.1440.819@0.23.1440.819" timestamp="1577030052202" />
+    <state x="458" y="188" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1577167016053">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="458" y="188" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1440.819@0.23.1440.819" timestamp="1577167016053" />
+    <state x="458" y="205" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1578132291486">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="205" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/0.0.1440.900@0.0.1440.900" timestamp="1578132291486" />
+    <state width="1398" height="198" key="GridCell.Tab.0.bottom" timestamp="1578135362877">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="198" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1578135362877" />
+    <state width="1358" height="198" key="GridCell.Tab.0.bottom/0.23.1440.819@0.23.1440.819" timestamp="1577974828504" />
+    <state width="1398" height="198" key="GridCell.Tab.0.center" timestamp="1578135362875">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="198" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1578135362875" />
+    <state width="1358" height="198" key="GridCell.Tab.0.center/0.23.1440.819@0.23.1440.819" timestamp="1577974828502" />
+    <state width="1398" height="198" key="GridCell.Tab.0.left" timestamp="1578135362874">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="198" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1578135362874" />
+    <state width="1358" height="198" key="GridCell.Tab.0.left/0.23.1440.819@0.23.1440.819" timestamp="1577974828502" />
+    <state width="1398" height="198" key="GridCell.Tab.0.right" timestamp="1578135362876">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="198" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1578135362876" />
+    <state width="1358" height="198" key="GridCell.Tab.0.right/0.23.1440.819@0.23.1440.819" timestamp="1577974828503" />
+    <state x="390" y="267" key="com.intellij.ide.util.TipDialog" timestamp="1577030042390">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="390" y="267" key="com.intellij.ide.util.TipDialog/0.23.1440.819@0.23.1440.819" timestamp="1577030042390" />
+    <state x="149" y="37" key="new project wizard" timestamp="1577170566891">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="149" y="37" key="new project wizard/0.23.1440.819@0.23.1440.819" timestamp="1577170566891" />
+    <state x="385" y="166" width="670" height="676" key="search.everywhere.popup" timestamp="1577341472441">
+      <screen x="0" y="23" width="1440" height="819" />
+    </state>
+    <state x="385" y="166" width="670" height="676" key="search.everywhere.popup/0.23.1440.819@0.23.1440.819" timestamp="1577341472441" />
+  </component>
+</project>
